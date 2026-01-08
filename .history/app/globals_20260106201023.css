@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Disable dark mode entirely */
+html, body {
+  background-color: white;
+  color: #0f172a; /* slate-900 */
+}
