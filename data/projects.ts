@@ -13,7 +13,7 @@ export const projects = [
       "React",
     ],
     github: "https://github.com/Tej0712/byteforce-crop-detection",
-    demo: "ppt",
+    demo: "https://drive.google.com/file/d/1fSrTYXfQ8lB1ncIjRj-cFa1DTdnTTqPl/view?usp=sharing",
   },
 
   {
@@ -31,7 +31,7 @@ export const projects = [
       "Robotics",
     ],
     github:
-      "https://git.las.iastate.edu/SeniorDesignComS/2025fall/402c/sd07_joseph_hoane_1",
+      "https://github.com/Tej0712/Autonomous-Robotic-Chess-Player",
     demo: "https://youtu.be/j55UGXcVj3g",
   },
 

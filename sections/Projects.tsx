@@ -120,12 +120,13 @@ export default function Projects() {
                     )}
                     {project.demo && (
                       <a
-                        href={project.demo}
+                        href={`${project.demo}#toolbar=0`}
                         target="_blank"
+                        rel="noopener noreferrer"
                         onClick={(e) => e.stopPropagation()}
                         className="text-sm font-medium text-blue-600 hover:underline"
                       >
-                        Demo / Video
+                        Demo / Slides
                       </a>
                     )}
                   </div>
