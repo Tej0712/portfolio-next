@@ -12,7 +12,7 @@ export const projects = [
       "FastAPI",
       "React",
     ],
-    github: "",
+    github: "https://github.com/Tej0712/byteforce-crop-detection",
     demo: "ppt",
   },
 
